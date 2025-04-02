@@ -1,1 +1,3 @@
-Git and Github Tutorial 1)Hello World
+Git and GitHub Tutorial 1)Hello World
+2)Git project
+3)GitHub push
