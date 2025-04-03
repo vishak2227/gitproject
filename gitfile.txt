@@ -1,4 +1,3 @@
-Git and GitHub Tutorial 
+Git file
 1)Hello World
-2)Git Hub Push
-3)New text added
+2)Heyy
